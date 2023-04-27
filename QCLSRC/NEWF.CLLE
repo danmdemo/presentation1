@@ -3,7 +3,7 @@
              sndpgmmsg  'test'
              sndpgmmsg 'forsave'
              sndpgmmsg 'check again'
-             sndpgmmsg 'This is a test for demo01'
+             sndpgmmsg 'This is a test for demo02'
              sndpgmmsg 'tkt11'
              sndpgmmsg 'testing for v7r3m0'
              ENDPGM
